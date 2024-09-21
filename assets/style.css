@@ -4,6 +4,20 @@
     --card-back-color: #142779;
 }
 
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0; 
+}
+header {
+    background-color: #2e39df; 
+    color: white; 
+    padding: 10px;
+    text-align: center;
+    font-size: 30px; 
+}
+
+
 body {
     background: url('img/backgroud.webp');
     font-family: Bai Jamjuree;
